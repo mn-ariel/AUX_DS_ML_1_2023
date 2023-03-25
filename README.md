@@ -2,7 +2,7 @@
 CURSO DE CIENCIA DE DATOS Y MACHINE LEARNING Semestre I/2023
  
 El material de la clase de Auxilitura de la materia CIENCIA DE DATOS Y MACHINE LEARNING sera subido a este repositorio.
-**Clases grabadas hasta Nivelacion de python**
+**Clases grabadas hasta Procesamiento de datos**
 
 ------------
 
